@@ -1,0 +1,1 @@
+06_key_led_flow_register_pro_hal\startup_stm32f103xe.o: startup_stm32f103xe.s
