@@ -1,0 +1,43 @@
+06_key_led_flow_register_pro_hal\usart.o: ../Core/Src/usart.c
+06_key_led_flow_register_pro_hal\usart.o: ../Core/Inc/usart.h
+06_key_led_flow_register_pro_hal\usart.o: ../Core/Inc/main.h
+06_key_led_flow_register_pro_hal\usart.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h
+06_key_led_flow_register_pro_hal\usart.o: ../Core/Inc/stm32f1xx_hal_conf.h
+06_key_led_flow_register_pro_hal\usart.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h
+06_key_led_flow_register_pro_hal\usart.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h
+06_key_led_flow_register_pro_hal\usart.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h
+06_key_led_flow_register_pro_hal\usart.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xe.h
+06_key_led_flow_register_pro_hal\usart.o: ../Drivers/CMSIS/Include/core_cm3.h
+06_key_led_flow_register_pro_hal\usart.o: C:\Program Files\Keil_v5_mdk\ARM\arm5_compiler\Bin\..\include\stdint.h
+06_key_led_flow_register_pro_hal\usart.o: ../Drivers/CMSIS/Include/cmsis_version.h
+06_key_led_flow_register_pro_hal\usart.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+06_key_led_flow_register_pro_hal\usart.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+06_key_led_flow_register_pro_hal\usart.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h
+06_key_led_flow_register_pro_hal\usart.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h
+06_key_led_flow_register_pro_hal\usart.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
+06_key_led_flow_register_pro_hal\usart.o: C:\Program Files\Keil_v5_mdk\ARM\arm5_compiler\Bin\..\include\stddef.h
+06_key_led_flow_register_pro_hal\usart.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h
+06_key_led_flow_register_pro_hal\usart.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h
+06_key_led_flow_register_pro_hal\usart.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h
+06_key_led_flow_register_pro_hal\usart.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_exti.h
+06_key_led_flow_register_pro_hal\usart.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h
+06_key_led_flow_register_pro_hal\usart.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h
+06_key_led_flow_register_pro_hal\usart.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h
+06_key_led_flow_register_pro_hal\usart.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h
+06_key_led_flow_register_pro_hal\usart.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h
+06_key_led_flow_register_pro_hal\usart.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h
+06_key_led_flow_register_pro_hal\usart.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim.h
+06_key_led_flow_register_pro_hal\usart.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim_ex.h
+06_key_led_flow_register_pro_hal\usart.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h
+06_key_led_flow_register_pro_hal\usart.o: C:\Program Files\Keil_v5_mdk\ARM\arm5_compiler\Bin\..\include\stdio.h
+06_key_led_flow_register_pro_hal\usart.o: ../FreeRTOS/include/FreeRTOS.h
+06_key_led_flow_register_pro_hal\usart.o: ../Core/Inc/FreeRTOSConfig.h
+06_key_led_flow_register_pro_hal\usart.o: ../FreeRTOS/include/projdefs.h
+06_key_led_flow_register_pro_hal\usart.o: ../FreeRTOS/include/portable.h
+06_key_led_flow_register_pro_hal\usart.o: ../FreeRTOS/include/deprecated_definitions.h
+06_key_led_flow_register_pro_hal\usart.o: ../FreeRTOS/portable/RVDS/ARM_CM3/portmacro.h
+06_key_led_flow_register_pro_hal\usart.o: ../FreeRTOS/include/mpu_wrappers.h
+06_key_led_flow_register_pro_hal\usart.o: ../FreeRTOS/include/semphr.h
+06_key_led_flow_register_pro_hal\usart.o: ../FreeRTOS/include/queue.h
+06_key_led_flow_register_pro_hal\usart.o: ../FreeRTOS/include/task.h
+06_key_led_flow_register_pro_hal\usart.o: ../FreeRTOS/include/list.h
