@@ -254,17 +254,13 @@ void HAL_GPIO_EXTI_Callback(uint16_t GPIO_Pin)
   switch (GPIO_Pin)
   {
   case SW3_Pin:
-    printf("SW3 is pressed\r\n");
     key3_is_pressed = 1; // 标记按键KEY3被按下
     break;
   case SW4_Pin:
-    printf("SW4 is pressed\r\n");
     break;
   case SW5_Pin:
-    printf("SW5 is pressed\r\n");
     break;
   case SW6_Pin:
-    printf("SW6 is pressed\r\n");
     break;
   default:
     break;
