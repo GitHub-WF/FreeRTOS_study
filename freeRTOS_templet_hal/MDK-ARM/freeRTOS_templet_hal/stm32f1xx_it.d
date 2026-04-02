@@ -1,0 +1,44 @@
+.\freertos_templet_hal\stm32f1xx_it.o: ../Core/Src/stm32f1xx_it.c
+.\freertos_templet_hal\stm32f1xx_it.o: ../Core/Inc/main.h
+.\freertos_templet_hal\stm32f1xx_it.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h
+.\freertos_templet_hal\stm32f1xx_it.o: ../Core/Inc/stm32f1xx_hal_conf.h
+.\freertos_templet_hal\stm32f1xx_it.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h
+.\freertos_templet_hal\stm32f1xx_it.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h
+.\freertos_templet_hal\stm32f1xx_it.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h
+.\freertos_templet_hal\stm32f1xx_it.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h
+.\freertos_templet_hal\stm32f1xx_it.o: ../Drivers/CMSIS/Include/core_cm3.h
+.\freertos_templet_hal\stm32f1xx_it.o: C:\Program Files\Keil_v5_mdk\ARM\arm5_compiler\Bin\..\include\stdint.h
+.\freertos_templet_hal\stm32f1xx_it.o: ../Drivers/CMSIS/Include/cmsis_version.h
+.\freertos_templet_hal\stm32f1xx_it.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+.\freertos_templet_hal\stm32f1xx_it.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+.\freertos_templet_hal\stm32f1xx_it.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h
+.\freertos_templet_hal\stm32f1xx_it.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h
+.\freertos_templet_hal\stm32f1xx_it.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
+.\freertos_templet_hal\stm32f1xx_it.o: C:\Program Files\Keil_v5_mdk\ARM\arm5_compiler\Bin\..\include\stddef.h
+.\freertos_templet_hal\stm32f1xx_it.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h
+.\freertos_templet_hal\stm32f1xx_it.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h
+.\freertos_templet_hal\stm32f1xx_it.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h
+.\freertos_templet_hal\stm32f1xx_it.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_exti.h
+.\freertos_templet_hal\stm32f1xx_it.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h
+.\freertos_templet_hal\stm32f1xx_it.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h
+.\freertos_templet_hal\stm32f1xx_it.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h
+.\freertos_templet_hal\stm32f1xx_it.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h
+.\freertos_templet_hal\stm32f1xx_it.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h
+.\freertos_templet_hal\stm32f1xx_it.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h
+.\freertos_templet_hal\stm32f1xx_it.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h
+.\freertos_templet_hal\stm32f1xx_it.o: ../Common/Com_debug.h
+.\freertos_templet_hal\stm32f1xx_it.o: ../Core/Inc/usart.h
+.\freertos_templet_hal\stm32f1xx_it.o: ../Core/Inc/main.h
+.\freertos_templet_hal\stm32f1xx_it.o: C:\Program Files\Keil_v5_mdk\ARM\arm5_compiler\Bin\..\include\stdio.h
+.\freertos_templet_hal\stm32f1xx_it.o: C:\Program Files\Keil_v5_mdk\ARM\arm5_compiler\Bin\..\include\stdarg.h
+.\freertos_templet_hal\stm32f1xx_it.o: C:\Program Files\Keil_v5_mdk\ARM\arm5_compiler\Bin\..\include\string.h
+.\freertos_templet_hal\stm32f1xx_it.o: ../Core/Inc/stm32f1xx_it.h
+.\freertos_templet_hal\stm32f1xx_it.o: ../freeRTOS/include/FreeRTOS.h
+.\freertos_templet_hal\stm32f1xx_it.o: ../freeRTOS/FreeRTOSConfig.h
+.\freertos_templet_hal\stm32f1xx_it.o: ../freeRTOS/include/projdefs.h
+.\freertos_templet_hal\stm32f1xx_it.o: ../freeRTOS/include/portable.h
+.\freertos_templet_hal\stm32f1xx_it.o: ../freeRTOS/include/deprecated_definitions.h
+.\freertos_templet_hal\stm32f1xx_it.o: ../freeRTOS/portable/portmacro.h
+.\freertos_templet_hal\stm32f1xx_it.o: ../freeRTOS/include/mpu_wrappers.h
+.\freertos_templet_hal\stm32f1xx_it.o: ../freeRTOS/include/task.h
+.\freertos_templet_hal\stm32f1xx_it.o: ../freeRTOS/include/list.h

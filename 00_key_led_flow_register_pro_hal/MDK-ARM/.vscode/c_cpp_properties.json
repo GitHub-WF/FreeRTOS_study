@@ -3,19 +3,19 @@
         {
             "name": "06_key_led_flow_register_pro_hal",
             "includePath": [
-                "d:\\资料夹\\2.学习\\F.嵌入式\\4.代码\\3.Wrokspace\\RTOS\\06_key_led_flow_register_pro_hal\\Core\\Inc",
-                "d:\\资料夹\\2.学习\\F.嵌入式\\4.代码\\3.Wrokspace\\RTOS\\06_key_led_flow_register_pro_hal\\Drivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy",
-                "d:\\资料夹\\2.学习\\F.嵌入式\\4.代码\\3.Wrokspace\\RTOS\\06_key_led_flow_register_pro_hal\\Drivers\\STM32F1xx_HAL_Driver\\Inc",
-                "d:\\资料夹\\2.学习\\F.嵌入式\\4.代码\\3.Wrokspace\\RTOS\\06_key_led_flow_register_pro_hal\\Drivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include",
-                "d:\\资料夹\\2.学习\\F.嵌入式\\4.代码\\3.Wrokspace\\RTOS\\06_key_led_flow_register_pro_hal\\Drivers\\CMSIS\\Include",
-                "d:\\资料夹\\2.学习\\F.嵌入式\\4.代码\\3.Wrokspace\\RTOS\\06_key_led_flow_register_pro_hal\\FreeRTOS\\include",
-                "d:\\资料夹\\2.学习\\F.嵌入式\\4.代码\\3.Wrokspace\\RTOS\\06_key_led_flow_register_pro_hal\\FreeRTOS\\portable\\RVDS\\ARM_CM3",
+                "d:\\资料夹\\2.学习\\F.嵌入式\\4.代码\\3.Wrokspace\\RTOS\\00_key_led_flow_register_pro_hal\\Core\\Inc",
+                "d:\\资料夹\\2.学习\\F.嵌入式\\4.代码\\3.Wrokspace\\RTOS\\00_key_led_flow_register_pro_hal\\Drivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy",
+                "d:\\资料夹\\2.学习\\F.嵌入式\\4.代码\\3.Wrokspace\\RTOS\\00_key_led_flow_register_pro_hal\\Drivers\\STM32F1xx_HAL_Driver\\Inc",
+                "d:\\资料夹\\2.学习\\F.嵌入式\\4.代码\\3.Wrokspace\\RTOS\\00_key_led_flow_register_pro_hal\\Drivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include",
+                "d:\\资料夹\\2.学习\\F.嵌入式\\4.代码\\3.Wrokspace\\RTOS\\00_key_led_flow_register_pro_hal\\Drivers\\CMSIS\\Include",
+                "d:\\资料夹\\2.学习\\F.嵌入式\\4.代码\\3.Wrokspace\\RTOS\\00_key_led_flow_register_pro_hal\\FreeRTOS\\include",
+                "d:\\资料夹\\2.学习\\F.嵌入式\\4.代码\\3.Wrokspace\\RTOS\\00_key_led_flow_register_pro_hal\\FreeRTOS\\portable\\RVDS\\ARM_CM3",
                 "c:\\Program Files\\Keil_v5_mdk\\ARM\\ARMCC\\include",
-                "d:\\资料夹\\2.学习\\F.嵌入式\\4.代码\\3.Wrokspace\\RTOS\\06_key_led_flow_register_pro_hal\\MDK-ARM",
-                "d:\\资料夹\\2.学习\\F.嵌入式\\4.代码\\3.Wrokspace\\RTOS\\06_key_led_flow_register_pro_hal\\Core\\Src",
-                "d:\\资料夹\\2.学习\\F.嵌入式\\4.代码\\3.Wrokspace\\RTOS\\06_key_led_flow_register_pro_hal\\Drivers\\STM32F1xx_HAL_Driver\\Src",
-                "d:\\资料夹\\2.学习\\F.嵌入式\\4.代码\\3.Wrokspace\\RTOS\\06_key_led_flow_register_pro_hal\\FreeRTOS\\portable\\MemMang",
-                "d:\\资料夹\\2.学习\\F.嵌入式\\4.代码\\3.Wrokspace\\RTOS\\06_key_led_flow_register_pro_hal\\FreeRTOS\\source"
+                "d:\\资料夹\\2.学习\\F.嵌入式\\4.代码\\3.Wrokspace\\RTOS\\00_key_led_flow_register_pro_hal\\MDK-ARM",
+                "d:\\资料夹\\2.学习\\F.嵌入式\\4.代码\\3.Wrokspace\\RTOS\\00_key_led_flow_register_pro_hal\\Core\\Src",
+                "d:\\资料夹\\2.学习\\F.嵌入式\\4.代码\\3.Wrokspace\\RTOS\\00_key_led_flow_register_pro_hal\\Drivers\\STM32F1xx_HAL_Driver\\Src",
+                "d:\\资料夹\\2.学习\\F.嵌入式\\4.代码\\3.Wrokspace\\RTOS\\00_key_led_flow_register_pro_hal\\FreeRTOS\\portable\\MemMang",
+                "d:\\资料夹\\2.学习\\F.嵌入式\\4.代码\\3.Wrokspace\\RTOS\\00_key_led_flow_register_pro_hal\\FreeRTOS\\source"
             ],
             "defines": [
                 "USE_HAL_DRIVER",
